@@ -1,0 +1,11 @@
+#nav-cf{
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+}
+#nav-cf img{
+    /* height: 90px; */
+    /* width: 250px; */
+    font-weight: 700;
+}
+#nav-cf ul li{
+    font-weight: 600;
+}

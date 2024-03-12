@@ -1,0 +1,16 @@
+#news-c{
+    color: white;
+}
+#news-c .news-head{
+    border-right: 2px solid rgb(17, 221, 78);
+}
+#news-c h4{
+    text-indent: 10px;
+    line-height: 50px;
+    padding: 0;
+    font-weight: 700px;
+}
+#news-c p{
+    line-height: 50px;
+    padding: 0 10px;
+}

@@ -7,3 +7,26 @@
 #about-cp #about-c h2{ 
    font-weight: 900;
 }
+#about-cp #about-c #about-item img{
+   height: 350px;
+   width: 100%;
+}
+#about-cp #about-c #about-item:nth-child(1){
+   position: relative;
+}
+#about-cp #about-c #about-item:nth-child(2){
+   position: absolute;
+   top: 264px;
+   left: 50%;
+   height: auto;
+   width: 50%;
+   font-size: 15px;
+   border: 2px solid rgb(252, 82, 82);
+   color: white;
+   background-color: rgb(0, 0, 0,0.5);
+}
+#about-cp #about-c h5{
+   font-weight: 700;
+ 
+
+}

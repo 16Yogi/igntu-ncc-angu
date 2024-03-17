@@ -1,0 +1,18 @@
+#contact-cf #contact-c h2{
+    font-weight: 900;
+}
+#contact-cf #contact-c iframe{
+    height: 350px;
+    width: 100%;
+    border: 5px solid rgb(212, 51, 51);
+}
+#contact-cf #contact-c h4{
+    font-weight: 600;
+}
+#contact-cf #contact-c #form #form-item input{
+    width: 100%;
+}
+#contact-cf #contact-c #form button{
+    width: 100%;
+    font-weight: 700;
+}

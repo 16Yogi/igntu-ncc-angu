@@ -8,6 +8,7 @@ import { AimComponent } from '../../component/aim/aim.component';
 import { ContactComponent } from '../../component/contact/contact.component';
 import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
+import { NccheadComponent } from '../../component/ncchead/ncchead.component';
 
 
 
@@ -15,7 +16,7 @@ import { RouterOutlet } from '@angular/router';
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [CommonModule,RouterOutlet,HedderComponent,BannerComponent,AboutcpComponent,NewsComponent,AimComponent,ContactComponent,FooterComponent],
+  imports: [CommonModule,RouterOutlet,HedderComponent,BannerComponent,AboutcpComponent,NewsComponent,AimComponent,NccheadComponent,ContactComponent,FooterComponent],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css'
 })

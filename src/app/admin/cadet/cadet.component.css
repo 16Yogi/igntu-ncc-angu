@@ -1,0 +1,32 @@
+#cadet-cf #cadet-c h2{
+    font-weight: 900;
+}
+#cadet-cf #cadet-c #cadet-item img{
+    height: auto;
+    width: 100%;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    border-radius: 4px;
+}
+#cadet-cf #cadet-c #cadet-item h5{
+    font-weight: 700;
+    line-height: 40px;
+}
+#cadet-cf #cadet-c h4{
+    font-weight: 900;
+}
+#cadet-cf #cadet-c #cadet-item-a img{
+    height: 250px;
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+}
+#cadet-cf #cadet-c #cadet-item-a p{
+    text-indent: 5px;
+    color: rgb(70, 68, 68);
+}
+#cadet-cf #cadet-c #cadet-item-a p:nth-child(2){
+    font-weight: 900;
+}
+#cadet-cf #cadet-c #cadet-item-a p:nth-child(3){
+    font-size: 14px;
+}

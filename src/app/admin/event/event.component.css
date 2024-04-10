@@ -1,0 +1,16 @@
+#event-cf{
+    height: 300px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    /* background-image: url('https://media.istockphoto.com/id/1370262770/photo/red-fort-delhi.jpg?s=1024x1024&w=is&k=20&c=CEsGF0Rb8WSpGnIRlYXgglvZbkAhtBv_pLPeVgCrPqU='); */
+    background-color: rgba(255, 217, 4, 0.747);   
+}
+#event-cf  #event-c #event-col h2{
+    text-align: center;
+    font-weight: 900;
+    line-height: 80px;
+}
+#event-cf  #event-c #event-col a{
+    font-weight: 700;
+}

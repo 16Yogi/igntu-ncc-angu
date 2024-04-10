@@ -1,0 +1,42 @@
+#thoughts-cf #thoughts-c #thoughts-wrap #thoughts-item{
+    height: auto;
+    width: 100%;
+}
+#thoughts-cf #thoughts-c #thoughts-wrap #thoughts-item h2{
+    font-weight: 900;
+}
+#thoughts-cf #thoughts-c #thoughts-wrap #thoughts-item:nth-child(2) {
+    /* width: 50%; */
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    /* background-color: rgb(250, 246, 246); */
+}
+#thoughts-cf #thoughts-c #thoughts-wrap #thoughts-item img{
+    height: 70px;
+    width: 100%;
+}
+#thoughts-cf #thoughts-c #thoughts-wrap #thoughts-item-a{
+    cursor: pointer;
+    padding: 20px 30px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    /* background-color: rgb(109, 109, 253); */
+    background-color: rgb(250, 246, 246);
+}
+#thoughts-cf #thoughts-c #thoughts-wrap #thoughts-item-a:hover{
+    transition: 0.5s;
+    transform: 0.5s;
+    background-color: gold;
+}
+#thoughts-cf #thoughts-c #thoughts-wrap #thoughts-item-a:hover i{
+    color: white;
+}
+#thoughts-cf #thoughts-c #thoughts-wrap #thoughts-item-a h6{
+    font-weight: 700;
+    color: rgb(6, 53, 116);
+}
+#thoughts-cf #thoughts-c #thoughts-wrap #thoughts-item-a h6 i{
+    font-size: 14px;
+    margin: 0 1px;
+    color: rgb(231, 197, 1);
+}

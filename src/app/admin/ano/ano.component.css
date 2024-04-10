@@ -1,0 +1,19 @@
+#ano-cf #ano-c h2{
+    font-weight: 900;
+}
+#ano-cf #ano-c #ano-item img{
+    height: 400px;
+    width: 100%;
+}
+#ano-cf #ano-c #ano-item h5{
+    font-weight: 700;
+}
+#ano-cf #ano-c #ano-item p{
+    /* line-clamp: ; */
+    overflow-wrap: break-word;
+    text-wrap: balance;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    /* line-clamp: 10; */
+    /* text-align: center; */
+}

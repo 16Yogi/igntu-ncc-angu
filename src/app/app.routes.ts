@@ -6,7 +6,7 @@ import { MainContactComponent } from './admin/main-contact/main-contact.componen
 import { ApplicationFormComponent } from './admin/application-form/application-form.component';
 import { CadetpageComponent } from './admin/cadetpage/cadetpage.component';
 import { AnoMainComponent } from './admin/ano-main/ano-main.component';
-
+import { AdminPanelComponent } from './admin/admin-panel/admin-panel.component';
 export const routes: Routes = [
     {path:'', redirectTo:"home", pathMatch:"full"},
     {path:'home',component:HomeComponent},
@@ -15,5 +15,6 @@ export const routes: Routes = [
     {path:'contact',component:MainContactComponent},
     {path:'application', component:ApplicationFormComponent},
     {path:'cadet', component:CadetpageComponent},
-    {path:'ano',component:AnoMainComponent}
+    {path:'ano',component:AnoMainComponent},
+    {path:'adminpanel',component:AdminPanelComponent}
 ];

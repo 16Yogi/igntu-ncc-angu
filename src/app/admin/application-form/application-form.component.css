@@ -1,0 +1,11 @@
+#application-cf #application-c{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 5px;
+}
+#application-cf #application-c h3{
+    font-weight: 700;
+}
+#application-cf #application-c a{
+    text-decoration: none;
+    font-weight: 700;
+}
